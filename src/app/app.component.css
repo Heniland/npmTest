@@ -1,0 +1,4 @@
+/* Header color override */
+.thead-inverse th {
+  background-color: #5bc0de;
+}
