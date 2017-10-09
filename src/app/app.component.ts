@@ -1,5 +1,6 @@
 import {Component} from '@angular/core';
-import {Car, Engine} from 'ha-auto';
+import {Car} from 'ha-auto';
+import {Engine} from 'ha-engine';
 
 @Component({
   selector: 'app-root',
